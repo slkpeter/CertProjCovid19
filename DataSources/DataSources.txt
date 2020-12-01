@@ -1,0 +1,14 @@
+Original Data Sources:
+[1] https://ourworldindata.org/coronavirus-source-data 
+[2] https://github.com/covid19-eu-zh/covid19-eu-data/tree/master/dataset 
+[3] https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_1 9_time_series 
+[4] https://www.kaggle.com/lisphilar/covid19-dataset-in-japan?select=covid_jpn_total.csv 
+[5] https://www.kaggle.com/unanimad/corona-virus-brazil?select=brazil_covid19.csv 
+[6] https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_19_india.csv
+
+Additional Data Sources:
+[7] tbd (RKI)
+[8] tbd (Johns Hopkins)
+
+Measure Sources:
+[9 ff] tdb (Maßnahmen Bundesrepublik, Frankreich, Schweden, ...)
